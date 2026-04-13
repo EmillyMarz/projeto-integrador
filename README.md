@@ -7,6 +7,7 @@ Sistema para ajudar estudantes a organizar tarefas, provas e prazos.
 - Emilly Martins
 - Guilherme Kalleu
 - Giovanna Sara
+- Washington sousa 
 
 ## 🚀 Funcionalidades
 - Cadastro de tarefas
