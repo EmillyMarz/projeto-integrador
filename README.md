@@ -5,7 +5,7 @@ Sistema para ajudar estudantes a organizar tarefas, provas e prazos.
 
 ## 👥 Integrantes
 - Emilly Martins
-- *****
+- Guilherme Kalleu
 - ****
 
 ## 🚀 Funcionalidades
