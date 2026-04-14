@@ -9,7 +9,10 @@ Sistema para ajudar estudantes a organizar tarefas, provas e prazos.
 - Giovanna Sara
 - Washington sousa
 - Nicolly Araujo Pereira
-- Pedro Henrique Xavier 
+- Pedro Henrique Xavier
+- Hugo Victorino
+- Bruno Bernardino
+- Lucas Vieira
 
 ## 🚀 Funcionalidades
 - Cadastro de tarefas
