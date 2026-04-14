@@ -9,6 +9,7 @@
 - Bruno Bernardino - 1726101470
 - Pedro Henrique - 1726106337
 - Giovanna Sara - 926115440
+- Lucas Vieira - 926113486
 
 ---
 
