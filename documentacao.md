@@ -10,6 +10,7 @@
 - Pedro Henrique - 1726106337
 - Giovanna Sara - 926115440
 - Lucas Vieira - 926113486
+- Nicolly Araujo - 926115342
 
 ---
 
@@ -118,9 +119,19 @@ O sistema deve possuir uma interface intuitiva.
 
 - Como aluno, quero criar tarefas para organizar meus estudos.
 
+- Como usuário, quero visualizar minhas tarefas para acompanhar minhas atividades.
+
 - Como usuário, quero definir prioridade nas tarefas para saber o que fazer primeiro.
 
-- Como usuário, quero visualizar minhas tarefas para acompanhar minhas atividades.
+- Como usuário, quero recuperar minha senha para acessar minha conta caso eu esqueça.
+
+- Como usuário, quero editar meu perfil para manter minhas informações atualizadas.
+
+- Como usuário, quero marcar tarefas como concluídas para acompanhar meu progresso.
+
+- Como usuário, quero visualizar o histórico de tarefas para acompanhar meu progresso.
+
+- Como usuário, quero compartilhar tarefas com outras pessoas para trabalhar em conjunto.
 
 ---
 
@@ -134,3 +145,6 @@ O projeto foi organizado utilizando o quadro Kanban no GitHub, com as colunas:
 
 ## 💻 Repositório GitHub
 https://github.com/EmillyMarz/projeto-integrador
+
+## ✅ Status do Projeto
+Projeto em fase de concepção (Bloco 1 concluído).
