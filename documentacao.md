@@ -11,7 +11,7 @@
 - Giovanna Sara - 926115440
 - Lucas Vieira - 926113486
 - Nicolly Araujo - 926115342
-- Washington sousa
+- Washington sousa - 926116953
 
 ---
 
