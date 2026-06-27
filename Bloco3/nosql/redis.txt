@@ -1,0 +1,6 @@
+usuario:42:sessao
+
+{
+  token: "abc123",
+  ultimo_acesso: "2026-06-18T22:30:00"
+}
