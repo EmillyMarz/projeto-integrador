@@ -1,0 +1,15 @@
+{
+  "_id": "64f1a2b3c4d5e6f7a8b9c0d1",
+  "usuario_id": 42,
+  "acao": "login_sistema",
+  "data_evento": "2026-06-18T23:00:00Z",
+  "dispositivo": {
+    "navegador": "Chrome",
+    "so": "Windows 11",
+    "ip": "192.168.1.50"
+  },
+  "metadados": {
+    "tempo_sessao_segundos": 1200,
+    "autenticacao_dois_fatores": true
+  }
+}
